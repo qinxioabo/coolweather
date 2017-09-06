@@ -27,6 +27,7 @@
             android:layout_height="40dp" />
     </RelativeLayout>
     <ListView
+        android:background="#fff"
         android:id="@+id/list_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
